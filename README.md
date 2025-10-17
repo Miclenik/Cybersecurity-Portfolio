@@ -7,14 +7,12 @@ A collection of my cybersecurity analysis reports and penetration testing writeu
 - **`02-windows-pe-malware-analysis.pdf`** - Windows executable analysis focusing on file structure, imports, and indicator of compromise (IOC) extraction
 
 ### 🔎 Digital Forensics & Incident Response
-- **`01-dfir-evidence-extraction.pdf`** - Forensic investigation involving extraction and correlation of emails and phone numbers from compromised systems, with incident timeline reconstruction
+- **`01-dfir-evidence-extraction.pdf`** - Forensic investigation involving extraction and correlation of emails and phone numbers from compromised systems
+- **`02-htb-reachkart-dfir-lab.pdf`** - HackTheBox ReachKart DFIR lab analysis focusing on forensic evidence collection and incident analysis
 
 ### 🌐 Network Security
 - **`01-dos-behavior-analysis.pdf`** - Analysis of Denial of Service attack patterns, traffic behavior, and mitigation strategies
 - **`02-reverse-shell-analysis.pdf`** - Investigation of command and control communication, persistence mechanisms, and detection methodologies
-
-### ⚔️ Penetration Testing
-- **`01-htb-reachkart-writeup.pdf`** - Complete penetration test of HackTheBox ReachKart (Medium) machine including reconnaissance, exploitation, privilege escalation, and post-exploitation
 
 ## 🛠️ Technical Skills Demonstrated
 
