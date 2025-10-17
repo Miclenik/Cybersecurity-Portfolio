@@ -17,9 +17,10 @@ A collection of my cybersecurity analysis reports and penetration testing writeu
 ## 🛠️ Technical Skills Demonstrated
 
 ### Malware Analysis
-- Static Analysis (APK & PE files)
-- File Structure Examination
-- Behavioral Pattern Identification
+- Static Analysis (APK & PE files) using PEiD, PEView, Detect It Easy
+- Indicator of Compromise (IOC) Extraction via HxD, BinText
+- File Structure Examination with Dependency Walker, xPEView
+- Behavioral Pattern Identification using Bulk Extractor, WinPrefetchView
 
 ### Digital Forensics
 - Evidence Collection & Preservation
@@ -33,11 +34,22 @@ A collection of my cybersecurity analysis reports and penetration testing writeu
 - Reverse Shell Detection
 - Network Forensic Techniques
 
+  ## 🛠️ Tools & Technologies Used
+
+### Malware Analysis
+- **PE Analysis:** PEiD, PEView, Dependency Walker, xPEView, Detect It Easy
+- **Hex & Text Analysis:** HxD, BinText
+- **Forensic Tools:** Bulk Extractor, WinPrefetchView
+- **System Tools:** PowerShell, EZTools
+
+### Digital Forensics & Incident Response
+- Bulk Extractor, WinPrefetchView, HxD, PowerShell
+
+### Network Security
+- Wireshark, Network Analysis Tools
+
 ### Penetration Testing
-- Web Application Security Assessment
-- Privilege Escalation Techniques
-- Vulnerability Identification & Exploitation
-- Comprehensive Documentation
+- Standard Penetration Testing Tools
 
 ## 🎯 Practical Experience
 - Conducted independent security research and analysis
