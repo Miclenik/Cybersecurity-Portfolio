@@ -9,6 +9,8 @@ A collection of my cybersecurity analysis reports and penetration testing writeu
 ### 🔎 Digital Forensics & Incident Response
 - **`01-dfir-evidence-extraction.pdf`** - Forensic investigation involving extraction and correlation of emails and phone numbers from compromised systems
 - **`02-htb-reachkart-dfir-lab.pdf`** - HackTheBox ReachKart DFIR lab analysis focusing on forensic evidence collection and incident analysis
+- **`03-htb-workfromhome-dfir-lab-report.pdf**` – Remote work compromise investigation, analyzing attacker activity in a hybrid work environment
+- **`04-htb-Advent of the Relics 1 lab part1.pdf**` – Phishing campaign and malware analysis: email header forensics, payload dissection, and C2 infrastructure mapping
 
 ### 🌐 Network Security
 - **`01-dos-behavior-analysis.pdf`** - Analysis of Denial of Service attack patterns, traffic behavior, and mitigation strategies
