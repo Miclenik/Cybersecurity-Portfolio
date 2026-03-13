@@ -17,6 +17,9 @@ A collection of my cybersecurity analysis reports and penetration testing writeu
 - **`01-dos-behavior-analysis.pdf`** - Analysis of Denial of Service attack patterns, traffic behavior, and mitigation strategies
 - **`02-reverse-shell-analysis.pdf`** - Investigation of command and control communication, persistence mechanisms, and detection methodologies
 
+### 🧠 Threat Intelligence
+- **`05-Threat-Intelligence/BadRabbit_Ransomware_Sandworm_APT_Threat_Intelligence_Report.pdf`** – Comprehensive threat intelligence report on BadRabbit ransomware, including email phishing analysis, malware execution chain, network IoCs, and extensive MITRE ATT&CK mapping (91 techniques across 12 tactics). Attribution to Russian state-sponsored actor Sandworm Team with detailed detection and mitigation recommendations.
+
 ## 🛠️ Technical Skills Demonstrated
 
 ### Malware Analysis
@@ -38,13 +41,13 @@ A collection of my cybersecurity analysis reports and penetration testing writeu
 - Network Forensic Techniques
 
 ### Threat Intelligence
--Phishing Email Analysis (PhishTool)
--Malware Family Identification (VirusTotal)
--Sandbox Analysis (Any.Run, Hybrid Analysis)
--MITRE ATT&CK Framework Mapping
--Threat Actor Attribution (Malpedia, OSINT)
--IoC Collection and Categorization
--Strategic Intelligence Reporting
+- Phishing Email Analysis (PhishTool)
+- Malware Family Identification (VirusTotal)
+- Sandbox Analysis (Any.Run, Hybrid Analysis)
+- MITRE ATT&CK Framework Mapping
+- Threat Actor Attribution (Malpedia, OSINT)
+- IoC Collection and Categorization
+- Strategic Intelligence Reporting
 
   ## 🛠️ Tools & Technologies Used
 
@@ -64,21 +67,21 @@ A collection of my cybersecurity analysis reports and penetration testing writeu
 - Standard Penetration Testing Tools
 
 ### Threat Intelligence
--Email Forensics: PhishTool
--Malware Lookup: VirusTotal, Malpedia
--Sandbox Analysis: Any.Run, Hybrid Analysis
--Frameworks: MITRE ATT&CK Navigator
--OSINT: Domain/IP reputation lookups
+- Email Forensics: PhishTool
+- Malware Lookup: VirusTotal, Malpedia
+- Sandbox Analysis: Any.Run, Hybrid Analysis
+- Frameworks: MITRE ATT&CK Navigator
+- OSINT: Domain/IP reputation lookups
 
 ## 🎯 Practical Experience
 🎯 Practical Experience
--Conducted independent security research and analysis
--Created professional technical reports suitable for stakeholder review
--Applied methodological approaches to security investigations
--Demonstrated ability to work through complex security scenarios
--Mapped real malware behavior to the MITRE ATT&CK framework (91 techniques)
--Conducted full-scope threat intelligence from initial access to impact
--Produced actionable detection and mitigation recommendations
+- Conducted independent security research and analysis
+- Created professional technical reports suitable for stakeholder review
+- Applied methodological approaches to security investigations
+- Demonstrated ability to work through complex security scenarios
+- Mapped real malware behavior to the MITRE ATT&CK framework (91 techniques)
+- Conducted full-scope threat intelligence from initial access to impact
+-   Produced actionable detection and mitigation recommendations
 
 ## ⚠️ Disclaimer
 All analysis and testing was conducted in controlled lab environments for educational purposes. Any sensitive information has been redacted to ensure security and privacy.
