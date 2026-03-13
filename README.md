@@ -37,6 +37,15 @@ A collection of my cybersecurity analysis reports and penetration testing writeu
 - Reverse Shell Detection
 - Network Forensic Techniques
 
+### Threat Intelligence
+-Phishing Email Analysis (PhishTool)
+-Malware Family Identification (VirusTotal)
+-Sandbox Analysis (Any.Run, Hybrid Analysis)
+-MITRE ATT&CK Framework Mapping
+-Threat Actor Attribution (Malpedia, OSINT)
+-IoC Collection and Categorization
+-Strategic Intelligence Reporting
+
   ## 🛠️ Tools & Technologies Used
 
 ### Malware Analysis
@@ -54,11 +63,22 @@ A collection of my cybersecurity analysis reports and penetration testing writeu
 ### Penetration Testing
 - Standard Penetration Testing Tools
 
+### Threat Intelligence
+-Email Forensics: PhishTool
+-Malware Lookup: VirusTotal, Malpedia
+-Sandbox Analysis: Any.Run, Hybrid Analysis
+-Frameworks: MITRE ATT&CK Navigator
+-OSINT: Domain/IP reputation lookups
+
 ## 🎯 Practical Experience
-- Conducted independent security research and analysis
-- Created professional technical reports suitable for stakeholder review
-- Applied methodological approaches to security investigations
-- Demonstrated ability to work through complex security scenarios
+🎯 Practical Experience
+-Conducted independent security research and analysis
+-Created professional technical reports suitable for stakeholder review
+-Applied methodological approaches to security investigations
+-Demonstrated ability to work through complex security scenarios
+-Mapped real malware behavior to the MITRE ATT&CK framework (91 techniques)
+-Conducted full-scope threat intelligence from initial access to impact
+-Produced actionable detection and mitigation recommendations
 
 ## ⚠️ Disclaimer
 All analysis and testing was conducted in controlled lab environments for educational purposes. Any sensitive information has been redacted to ensure security and privacy.
